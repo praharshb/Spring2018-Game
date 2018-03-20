@@ -1,3 +1,4 @@
-# Spring2018-Game
-     Iam Praharsh Bheemarapu, I have done my undergrad in Computer science which included the courses like Computer programming, DBMS, basics of Java programming, Data Structures, basics of Web Designing, Operating Systems, Computer Organization and Architecture, Computer Networks , etc. My experiences include creating basic webpages, creating basic path follower and obstacle avoider robot using Arduino UNO microcontroller, have done my group project in my undergrad on Fingerprint compression based on Sparse representation which uses the method of sparse representation to obtain efficient compression, especially at high compression ratios for effective space complexity and lossless data.
-     This course Web Server Programming will be more about practical learning, developing and maintaining webpages. As a graduate student after completion of this course I expect knowledge of creating and maintaining webpages , which can help me hoist a website and utilize the skills for a business idea or concept, as everything is growing or becoming available on the interenet  and making things global.       
+# 2018Spring
+
+## Second Class
+We are learning about editors and relationships between files.
