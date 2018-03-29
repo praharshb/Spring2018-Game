@@ -8,8 +8,11 @@ export class Game {
         "There are two extremes"
     ];
     Players: User[] = [
-        { Name: 'Moshe' }
+        { Name: 'Praharsh B' },
+        { Name: 'Barrack Obama' },
+        { Name: 'Di Caprio'},
     ];
+    Dealer: string = 'Praharsh B';
     Picture: string = 'https://media3.s-nbcnews.com/j/msnbc/components/video/201803/tdy_news_welker_trump_180315_1920x1080.nbcnews-ux-1080-600.jpg';
     PlayedQuotes: Quote[] = [
     ];
